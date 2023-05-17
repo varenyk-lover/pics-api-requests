@@ -1,7 +1,7 @@
-## Redux Shopping Cart
+## Pictures search bar
 
 Example search application for learning api requests.
-Enter images you want to find, and you will see the list of these images under searchbar.
+Enter images you want to find, and you will see the list of these images from Unsplash API.
 
 ## Setup
 
