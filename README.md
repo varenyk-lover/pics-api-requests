@@ -1,3 +1,23 @@
+## Redux Shopping Cart
+
+Example search application for learning api requests.
+Enter images you want to find, and you will see the list of these images under searchbar.
+
+## Setup
+
+Checkout the code base and then type:
+
+```
+npm install
+npm  start
+```
+
+## Technologies and libraries
+
+- [React]
+- [Axios]
+- [CSS]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,13 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
