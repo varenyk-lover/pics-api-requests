@@ -14,9 +14,9 @@ npm  start
 
 ## Technologies and libraries
 
-- [React]
-- [Axios]
-- [CSS]
+- React
+- Axios
+- CSS
 
 # Getting Started with Create React App
 
